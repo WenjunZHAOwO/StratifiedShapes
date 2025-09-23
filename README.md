@@ -4,7 +4,7 @@ This is the GitHub repo demonstrating the application of stratified Wasserstein 
 
 ## Overview
 
-[Flowchart.pdf](https://github.com/user-attachments/files/22483395/Flowchart.pdf)
+![Alt text](https://github.com/WenjunZHAOwO/StratifiedShapes/blob/main/Flowchart.png)
 
 
 ## Data availability
