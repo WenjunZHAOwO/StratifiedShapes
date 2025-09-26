@@ -14,6 +14,9 @@ Both processed (aligned and resampled) 2D cancer cell shape data are available a
 The 3D mitotic cell shape dataset is available at https://open.quiltdata.com/b/allencell/packages/aics/mitotic_annotation.
 
 ## Main scripts
+
+A simple tutorial based on simulated polygons: https://github.com/WenjunZHAOwO/StratifiedShapes/blob/main/Scripts/Compare_distances.ipynb
+
 2D cell shapes: https://github.com/WenjunZHAOwO/StratifiedShapes/blob/main/Scripts/Cell_Contour2.ipynb
 
 3D cell and nucleus shapes: https://github.com/WenjunZHAOwO/StratifiedShapes/blob/main/Scripts/Cell_3D_All.ipynb
